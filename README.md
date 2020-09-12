@@ -3,8 +3,8 @@ finishing my comma.ai degree here!
 
 ## curriculum
 #### Section 1: Intro: Cheating our way past the transistor -- 0.5 weeks
-Digital Integrated Circuits: A Design Perspective - Jan M. Rarabey
-Top-Down Digital VLSI Design: From Architectures to Gate-Level Circuits and FPGAs - Hubert Kaeslin
+- Digital Integrated Circuits: A Design Perspective - Jan M. Rarabey
+- Top-Down Digital VLSI Design: From Architectures to Gate-Level Circuits and FPGAs - Hubert Kaeslin
 
 #### Section 2: Bringup: What language is hardware coded in? -- 0.5 weeks
 #### Section 3: Processor: What is a processor anyway? -- 3 weeks
